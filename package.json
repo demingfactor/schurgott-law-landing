@@ -1,5 +1,5 @@
 {
-  "name": "micro-site",
+  "name": "schurgott-law-landing",
   "version": "1.0.0",
   "description": "Opinionated micro front-end that can be used to start a one-page site.",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/voightco/micro-site.git"
+    "url": "git+https://github.com/demingfactor/schurgott-law-landing.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/voightco/micro-site/issues"
+    "url": "https://github.com/demingfactor/schurgott-law-landing/issues"
   },
-  "homepage": "https://github.com/voightco/micro-site#readme",
+  "homepage": "https://github.com/demingfactor/schurgott-law-landing",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "clean-css": "^4.2.3",
