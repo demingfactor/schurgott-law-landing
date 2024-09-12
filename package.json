@@ -1,7 +1,7 @@
 {
   "name": "schurgott-law-landing",
   "version": "1.0.0",
-  "description": "Opinionated micro front-end that can be used to start a one-page site.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "eleventy",
